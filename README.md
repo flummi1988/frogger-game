@@ -20,3 +20,5 @@ It is a timed grid-based game.
 * You can pause the game by pressing the same button as you did to start the game
 
 Happy frogging!
+
+### You can test it here: https://flummi1988frogger.netlify.app/
