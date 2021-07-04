@@ -1,0 +1,42 @@
+.grid {
+    border: 1px solid #000;
+    display: flex;
+    flex-wrap: wrap;
+    height: 360px;
+    width: 360px;
+}
+.grid div {
+    height: 40px;
+    width: 40px;
+}
+.ending-block {
+    background-color: red;
+}
+.starting-block {
+    background-color: #00f;
+}
+.street {
+    background-image: url(street.jpg);
+}
+.g1 {
+    background-image: url(grass.jpg);
+}
+.c1 {
+    background-image: url(car.jpg);
+}
+.c2,
+.c3 {
+    background-image: url(street.jpg);
+}
+.l1,
+.l2,
+.l3 {
+    background-image: url(wood.jpg);
+}
+.l4,
+.l5 {
+    background-image: url(water.jpg);
+}
+.frog {
+    background-image: url(frog.png);
+}
